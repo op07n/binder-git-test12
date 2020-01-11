@@ -1,0 +1,5 @@
+streamlit 
+jupyter-server-proxy 
+nbserverproxy
+vega-datasets==0.7.0
+altair==3.2.0
